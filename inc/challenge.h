@@ -1,0 +1,12 @@
+//
+// Created by Esaki Shigeki on 2019-05-03.
+//
+
+#ifndef JOS_2019_SPRING_CHALLENGE_H
+#define JOS_2019_SPRING_CHALLENGE_H
+
+//#define CHALLENGE_LAB4
+//#define CHALLENGE_LAB5
+#define CHALLENGE_LAB6
+
+#endif //JOS_2019_SPRING_CHALLENGE_H
